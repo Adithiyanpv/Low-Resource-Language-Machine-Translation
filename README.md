@@ -1,3 +1,3 @@
-# Team-LinguaForAll
+# Team Winners
 
 # Low-Resource-Language-Machine-Translation
